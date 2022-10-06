@@ -1,5 +1,5 @@
 # Yet To Be Untitled
-Source code for the album Yet To Be Untitled. To run any songs, use [Sonic Pi](https://sonic-pi.net/) and first edit and run config.rb. You can find a recorded version of this album [here](https://beguiledbyguillotining.bandcamp.com/album/yet-to-be-untitled).
+Source code for the album Yet To Be Untitled. To run any songs, use [Sonic Pi](https://sonic-pi.net/) and first edit and run config.rb. You can find a recorded version of this album [here](https://junber.bandcamp.com/album/yet-to-be-untitled).
 
 Songs:
 - Yet to Be Untitled
